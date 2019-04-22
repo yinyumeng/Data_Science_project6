@@ -1,4 +1,5 @@
 # Starbucks Capstone Project
+Blog link: https://medium.com/@yinym3/starbucks-capstone-project-6d6dfef3bfcd
 
 This data set contains three files. The first file describes the characteristics of each offer, including its duration and the amount  a customer needs to spend to complete it (difficulty). The second file contains customer demographic data including their age, gender, income, and when they created an account on the Starbucks rewards mobile application. The third file describes customer purchases and when they received, viewed, and completed an offer. An offer is only successful when a customer both views an offer and meets or exceeds its difficulty within the offer's duration.
   
